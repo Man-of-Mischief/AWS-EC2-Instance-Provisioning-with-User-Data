@@ -12,7 +12,7 @@ This Terraform code provisions an AWS EC2 instance with user data execution. It 
 1. Clone the repository to your local machine.
 
 ```
-git clone https://github.com/your-username/your-repository.git
+git clone https://github.com/Man-of-Mischief/AWS-EC2-Instance-Provisioning-with-User-Data
 ```
 
 2. Navigate to the project directory.
